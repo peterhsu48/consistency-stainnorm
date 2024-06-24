@@ -1,1 +1,1 @@
-# diffusion-stainnorm
+# Consistency Model for Stain Normalization
