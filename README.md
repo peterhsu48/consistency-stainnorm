@@ -27,7 +27,7 @@ The training and test splits used are in `./splits/`.
 
 ## Training and Sampling
 
-To train the consistency model, run ` bash ./scripts/train.sh`. To perform stain normalization, run `bash ./scripts/sample.sh`.
+To train the consistency model, run `bash ./scripts/train.sh`. To perform stain normalization, run `bash ./scripts/sample.sh`.
 
 ## Results
 
@@ -35,11 +35,7 @@ To learn more about the results from this work, visit [https://peterhsu48.github
 
 <img src="assets/Figure4.png">
 
-
-
-
-
-
+Scale bar: 25 µm.
 
 ## Acknowledgements
 
